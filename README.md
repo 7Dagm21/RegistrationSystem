@@ -25,7 +25,7 @@ aastu/
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-org/aastu.git
+git clone https://github.com/7Dagm21/RegistrationSystem.git
 cd aastu
 ```
 
