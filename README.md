@@ -75,7 +75,6 @@ npm run dev
 
 1. **User Registration/Login:**
    - Students and staff register or log in using their university email.
-   - Email OTP is sent for verification.
 2. **Role-Based Dashboard:**
    - After login, users see a dashboard tailored to their role (student, advisor, etc.).
 3. **Student Actions:**
